@@ -1,8 +1,0 @@
-[
-  "tests/test_resume_parser.py::test_accepts_uppercase_extension",
-  "tests/test_resume_parser.py::test_extracts_paragraphs_and_tables_from_docx",
-  "tests/test_resume_parser.py::test_extracts_text_from_pdf",
-  "tests/test_resume_parser.py::test_rejects_unsupported_format",
-  "tests/test_resume_parser.py::test_reports_corrupt_docx",
-  "tests/test_resume_parser.py::test_reports_missing_file"
-]
